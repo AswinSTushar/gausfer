@@ -143,7 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 - 3D Gaussian Splatting for Real-Time Radiance Field Rendering (Kerbl et al.)
 
 ## Credits
-Amal S Kumar
-Aswin S Tushar
-Ambili Ambaran S
+Amal S Kumar, 
+Aswin S Tushar, 
+Ambili Ambaran S, 
 Aleesha M.
